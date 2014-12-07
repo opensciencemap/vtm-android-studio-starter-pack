@@ -17,5 +17,6 @@ allprojects {
         jcenter()
         mavenLocal()
         mavenCentral()
+        maven { url 'https://github.com/opensciencemap/maven-repo/raw/master/' }
     }
 }

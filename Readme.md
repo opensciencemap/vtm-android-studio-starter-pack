@@ -1,7 +1,8 @@
 ## A simple VTM example app
-for use with Android Studio
+ready to import in Android Studio
 
-* Install the dependencies:
+
+* Optional: Build and install VTM from sources:
 
 ```
 git clone --recursive https://github.com/opensciencemap/vtm
@@ -10,5 +11,3 @@ cd vtm
 export ANDROID_HOME=/path/to/your/android-sdk
 ./gradlew clean install
 ```
-
-Everything should be in place now to import this project in Android Studio.
